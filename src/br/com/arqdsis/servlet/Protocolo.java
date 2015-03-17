@@ -23,6 +23,8 @@ public class Protocolo extends HttpServlet {
 		// Set response content type
 		response.setContentType("text/html");
 		PrintWriter out = response.getWriter();
+		
+		
 		String title = "Exemplo de HTTP Header Request";
 		String docType = "<!doctype html public \"-//w3c//dtd html 4.0 "
 				+ "transitional//en\">\n";

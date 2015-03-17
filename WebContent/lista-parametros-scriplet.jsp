@@ -15,10 +15,10 @@ javax.servlet.http.HttpServletResponse"%>
 <title>Exemplo de HTTP Header Request</title>
 </head>
 
-<body bgcolor=\"#f0f0f0\">
-	<h1 align=\"center\">Exemplo de HTTP Header Request</h1>
-	<table width=\ "100%\" border=\ "1\" align=\"center\">
-		<tr bgcolor=\"#949494\">
+<body bgcolor="#f0f0f0">
+	<h1 align="center">Exemplo de HTTP Header Request</h1>
+	<table width= "100%" border= "1" align="center">
+		<tr bgcolor="#949494">
 			<th>Header Name</th>
 			<th>Header Value(s)</th>
 		</tr>
@@ -35,8 +35,8 @@ javax.servlet.http.HttpServletResponse"%>
 
 		<br />
 		<br />
-		<table width=\ "100%\" border=\ "1\" align=\"center\">
-			<tr bgcolor=\"#949494\">
+		<table width= "100%" border= "1" align="center">
+			<tr bgcolor="#949494">
 				<th>Parameter Name</th>
 				<th>Parameter Value(s)</th>
 			</tr>
